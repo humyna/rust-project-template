@@ -76,3 +76,11 @@ Compiling my-project-service v0.1.0 (/Users/uh/Documents/sourcecode/github/rust-
 Compiling my-project-name v0.1.0 (/Users/uh/Documents/sourcecode/github/rust-project-template/my-project-name)
 Compiling abi v0.1.0 (/Users/uh/Documents/sourcecode/github/rust-project-template/abi)
 Finished dev [unoptimized + debuginfo] target(s) in 1.54s
+
+13. github新建参考
+登录github.com, new repository
+
+14. 推荐本地代码至github上
+git remote add origin https://github.com/humyna/rust-project-template.git
+git branch -M main
+git push -u origin main
