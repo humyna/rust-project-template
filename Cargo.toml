@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "abi",
+    "my-project-name",
+    "my-project-service",
+]
